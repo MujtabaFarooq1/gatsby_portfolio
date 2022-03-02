@@ -1,0 +1,14 @@
+{
+    "id": "header-data-1",
+    "section": "header-1",
+
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        },
+        {
+            "src": "../images/logo/logo.png"
+        }
+    ],
+    "slogan": "Get your web app now!."
+}
