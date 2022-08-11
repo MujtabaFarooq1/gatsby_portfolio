@@ -19,7 +19,7 @@ const PortfolioCard = ({ title, category, likeCount, image, path, texts }) => {
             >
                 <div className="inner">
                     <div className="thumbnail">
-                        <Anchor path={path}>
+                        <Anchor path={`#!${path}`}>
                             <Image src={image.src} alt={image?.alt || title} />
                         </Anchor>
                     </div>
@@ -35,7 +35,7 @@ const PortfolioCard = ({ title, category, likeCount, image, path, texts }) => {
                                             name="Heart"
                                             size={13}
                                             strokeWidth={3}
-                                        />{" "}
+                                        />
                                         {likeCount && likeCount}
                                     </button>
                                 </span>

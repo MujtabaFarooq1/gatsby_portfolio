@@ -74,21 +74,21 @@
                 {
                     "id": 1,
                     "title": "Web App",
-                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "description": "I create beautiful and responsive web apps using modern javascript frameworks like ReactJs, NextJs, NestJs, NodeJs etc and awesome databases like MongoDB,  PostgreSQL, Firebase, MySQL etc. For the styling, CSS and its preprocessors, especially SASS, to turn your ideas into reality.",
                     "icon": "Globe",
                     "path": "#!"
                 },
                 {
                     "id": 2,
                     "title": "Mobile App",
-                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "description": "I  create truly native mobile applications using react native with well-structured front-end architecture, APIs, and scalable code. Apps are well optimized,  fast, and beautiful.",
                     "icon": "Smartphone",
                     "path": "#!"
                 },
                 {
                     "id": 3,
                     "title": "RESTfull API",
-                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "description": "I efficiently build RESTful APIs that cater to the diverse need of customers. I use technologies like NodeJs, NextJs, DenoJs, and other javascript frameworks for creating fast and responsive APIs that scale well",
                     "icon": "Activity",
                     "path": "#!"
                 },
@@ -113,127 +113,127 @@
             "section": "portfolio-section",
             "section_title": {
                 "title": "My Portfolio",
-                "subtitle": "Visit my portfolio and keep your feedback"
+                "subtitle": "Here is Some of my latest work & there is lot more 😉"
             },
             "items": [
                 {
                     "id": 1,
-                    "title": "The services provide for design",
-                    "category": "Development",
+                    "title": "Mgic Task | Make work, feel like play!",
+                    "category": "Web App",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Magic Task helps you get more done, so you can clear your mind and have fun while doing it."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "MagicTask is a next-generation gamified task management platform built with hyper-simplicity. MagicTask was created by gamers, built for gamers and entrepreneurs with a game-themed approach"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-01.jpg"
+                            "src": "../images/portfolio/magictask_portfolio.png"
                         }
                     ],
-                    "path": "#!",
-                    "likeCount": 600
+                    "path": "https://magictask.io/",
+                    "likeCount": 10
                 },
                 {
                     "id": 2,
-                    "title": "Mobile app landing design & app maintain",
-                    "category": "Application",
+                    "title": "Imaginovation Website",
+                    "category": "Web App",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Imaginovation helps businesses turn their ideas into successful digital realities."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": " We excel in creating digital solutions that solve critical pain points while making you and your customers the HERO."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-02.jpg"
+                            "src": "../images/portfolio/imaginovation_portfolio.png"
                         }
                     ],
-                    "path": "#!",
+                    "path": "https://imaginovation.net",
                     "likeCount": 750
                 },
                 {
                     "id": 3,
-                    "title": "Logo design creativity & Application",
-                    "category": "Photoshop",
+                    "title": "Job Genie | Get hired now",
+                    "category": "Web App",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "JobGenie Devs is the first community of software developers dedicated to making the job search easier."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Earn Money and gain experience while you look for a job! & Apply to 100s of jobs a week with just the click of a button."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-03.jpg"
+                            "src": "../images/portfolio/jobGenie_portfolio.png"
                         }
                     ],
-                    "path": "#!",
+                    "path": "https://www.jobgeniedevs.com/",
                     "likeCount": 630
                 },
                 {
                     "id": 4,
-                    "title": "Mobile app landing design & Services",
-                    "category": "Figma",
+                    "title": "Bitnob | Best place to use Bitcoin",
+                    "category": "Web App",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Imagine a safe, instant, cheap and modern way to pay and get paid globally. "
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "This is Bitnob, a gem in your pocket. Join the fastest growing Bitcoin app in Africa today. f you need to experience something different, something better, Bitnob helps you"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-04.jpg"
+                            "src": "../images/portfolio/bitnob_portfolio.png"
                         }
                     ],
-                    "path": "#!",
+                    "path": "https://bitnob.com/",
                     "likeCount": 360
                 },
                 {
                     "id": 5,
-                    "title": "Design for tecnology & services",
-                    "category": "Web Design",
+                    "title": "Bloomful | Bringing therapist and you together",
+                    "category": "Web App",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "We help you connect with the best therapist in the world "
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Commited to helping you and brinental health all around the world and we are doing it in easiest way possible your personal therapist will be available to you anywhere you are!"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-05.jpg"
+                            "src": "../images/portfolio/bloomful_portfolio.png"
                         }
                     ],
-                    "path": "#!",
+                    "path": "https://bloomful.app/",
                     "likeCount": 280
                 },
                 {
                     "id": 6,
-                    "title": "App for tecnology & services",
-                    "category": "Web Design",
+                    "title": "Modjen | Next-gen garments and gifts",
+                    "category": "Web App",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "We are a dedicated team of professionals working hard to provide premium pret-a-porter in western and ethnic wear."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "It all started under the name of EDEN APPARELS – the effervescent company founded in 1988. Always fascinated by distinguished styles, the company bent its efforts to bringing colors, designs, fabrics & magic together. The initiative turned out to be a success and the company quickly became popular for its quality kids wear and later expanded its portfolio to rise as edenrobe – offering customers wide variety of finest ready-to-wear crafted to meet the ever changing demands of a modern family wardrobe."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-06.jpg"
+                            "src": "../images/portfolio/modejen_portfolio.png"
                         }
                     ],
-                    "path": "#!",
+                    "path": "https://modejen.vercel.app/",
                     "likeCount": 600
                 }
             ]
@@ -271,13 +271,6 @@
                             "subtitle": "University of Management and Technology (2017 - 2019)",
                             "rating": "3.56/4",
                             "description": "Focuses on the procedures and concepts used in the development of advanced software systems. This program helped with the exploration of the conceptual foundation of Computer Sciences such as its fundamental algorithms, programming language and more."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Intermediate of Computer Sciences (ICS)",
-                            "subtitle": "College of Science (2015 - 2017)",
-                            "rating": "3.5/4",
-                            "description": "General education in many aspects of Computer Science and Software Development"
                         }
                     ]
                 },
@@ -1550,15 +1543,15 @@
             },
             "images": [
                 {
-                    "src": "../images/contact/contact1.png"
+                    "src": "../images/contact/concact2.jpg"
                 }
             ],
             "headings": [
                 {
-                    "content": "Nevine Acotanza"
+                    "content": "Mujtaba Farooq"
                 },
                 {
-                    "content": "Chief Operating Officer"
+                    "content": "Full Stack Javascript Developer"
                 }
             ],
             "texts": [

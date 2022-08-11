@@ -29,6 +29,7 @@ const Button = ({
                     aria-label={label}
                     className={cn(className, "rn-btn")}
                     to={path}
+                    target="_blank"
                 >
                     {icon && iconPosition === "left" && (
                         <Icon
@@ -55,6 +56,8 @@ const Button = ({
                     onClick={onClick}
                     className={cn(className, "rn-btn")}
                     href={path}
+                    target="_blank"
+                    rel="noreferrer"
                 >
                     {icon && iconPosition === "left" && (
                         <Icon
@@ -79,6 +82,8 @@ const Button = ({
                 aria-label={label}
                 className={cn(className, "rn-btn")}
                 href={path}
+                target="_blank"
+                rel="noreferrer"
             >
                 {icon && iconPosition === "left" && (
                     <Icon
